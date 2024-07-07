@@ -7,7 +7,7 @@ import text from '../assets/images/VIEW AI.png';
 
 const Dashboard = () => {
   return (
-    <div className='flex justify-center h-screen '>
+    <div className='flex justify-center h-[100vh] md:h-screen '>
     <div className='md:mt-9 '>
       <div className='w-1/2 mt-14 md:mt-0 md:w-1/3 lg:w-1/3 xl:w-[35vh] xl:h-[78vh] lg:ml-24 absolute  h-[75vh] pb-5 sm:transparent md:bg-gray-800 rounded-xl md:backdrop-blur-sm md:bg-opacity-20 lg:bg-opacity-20 xl:bg-opacity-20 md:border-2 lg:border-2 xl:border-2 md:border-gray-500 lg:border-gray-500 xl:border-gray-500 pt-10'>
         <div className='flex bg-transparent md:pt-16 w-full px-3'>

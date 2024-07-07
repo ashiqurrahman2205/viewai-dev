@@ -2,7 +2,7 @@
 import React from 'react'
 export default function MakeUnique() {
     return (
-      <div className='mt-44 md:mt-0' id="second">
+      <div className='-mt-40 md:mt-0' id="second">
         <div className='flex items-center justify-center'>
           <h1 className='text-4xl font-semibold text-white'>Making Us Unique</h1>
         </div>
